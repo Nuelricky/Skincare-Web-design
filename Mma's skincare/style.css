@@ -154,7 +154,7 @@ body{
 .container{padding-inline: 15px;}
 
 .header-top{
-    position:absolute;
+    position:fixed;
     bottom: 0;
     left: 0;
     width: 100%;
